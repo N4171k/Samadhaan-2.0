@@ -2,8 +2,8 @@ const express = require('express');
 const app = express();
 const port = 3000;
 const students = [
-    { id: 1, name: 'naitik', major: 'Computer Science' },
-    { id: 2, name: 'riya', major: 'Electrical Engineering' },
+    { id: 1, name: 'Arjun', major: 'Computer Science' },
+    { id: 2, name: 'Kanishka', major: 'Electrical Engineering' },
     { id: 3, name: 'utakarsh', major: 'Mathematics' }
 ];
 app.get('/', (req, res) => {
