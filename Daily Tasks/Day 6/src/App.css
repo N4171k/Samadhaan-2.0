@@ -1,0 +1,10 @@
+/* src/App.css */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  background-color: #f9f9f9;
+  padding: 20px;
+}
