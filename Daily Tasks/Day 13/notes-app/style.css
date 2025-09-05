@@ -1,0 +1,11 @@
+/* style.css */
+body { font-family: sans-serif; background-color: #f4f4f9; color: #333; }
+.container { max-width: 800px; margin: 2rem auto; padding: 1rem; }
+#note-form { display: flex; flex-direction: column; gap: 10px; margin-bottom: 2rem; }
+input, textarea, button { padding: 10px; border: 1px solid #ddd; border-radius: 5px; font-size: 1rem; }
+button { background-color: #5c67f2; color: white; cursor: pointer; border: none; }
+.note { background: white; padding: 15px; border-radius: 5px; margin-bottom: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.note h3 { margin-top: 0; }
+.note-actions { margin-top: 10px; }
+.note-actions button { background-color: #f25c5c; font-size: 0.8rem; padding: 5px 10px; margin-right: 5px; }
+.note-actions .edit-btn { background-color: #f2b95c; }
