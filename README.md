@@ -4,7 +4,7 @@
 
 [![Defense Solutions](https://img.shields.io/badge/Defense-Solutions-red?style=for-the-badge&logo=shield&logoColor=white)](https://github.com)
 [![Team RUN](https://img.shields.io/badge/Team-RUN-blue?style=for-the-badge&logo=users&logoColor=white)](https://github.com)
-[![Innovation](https://img.shields.io/badge/Innovation-2024-green?style=for-the-badge&logo=lightbulb&logoColor=white)](https://github.com)
+[![Innovation](https://img.shields.io/badge/Innovation-2025-green?style=for-the-badge&logo=lightbulb&logoColor=white)](https://github.com)
 
 **Revolutionary Defense Solutions for Modern Challenges**
 
